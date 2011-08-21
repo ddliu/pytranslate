@@ -7,6 +7,5 @@
 
 ## Usage
 
-trans.py test
-
-
+trans.py 
+Then type ".help"
